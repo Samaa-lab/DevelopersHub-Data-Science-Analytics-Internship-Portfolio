@@ -17,25 +17,20 @@ The internship provided hands-on experience in data preprocessing, exploratory d
 
 ---
 
-# Internship Skills
+## Projects
 
-Throughout the internship, I worked with:
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- CatBoost
-- XGBoost
-- SHAP
-- LIME
-- Statsmodels
-- Prophet
-- Streamlit
-- Jupyter Notebook
-
+| Task | Project | Key Skills | Repository |
+|------|---------|------------|------------|
+| Phase 1 - Task 1 | Iris Dataset Analysis | EDA, Data Visualization | [Repository](https://github.com/Samaa-lab/Task-1-Iris-Dataset-Analysis) |
+| Phase 1 - Task 2 | Credit Risk Prediction | Classification, Logistic Regression | [Repository](https://github.com/Samaa-lab/Task-2-Credit-Risk-Prediction) |
+| Phase 1 - Task 3 | Customer Churn Prediction | Random Forest, Feature Importance | [Repository](https://github.com/Samaa-lab/Task-3-Customer-Churn-Prediction) |
+| Phase 1 - Task 4 | Insurance Claim Prediction | Regression, Linear Regression | [Repository](https://github.com/Samaa-lab/Task-4-Insurance-Claim-Prediction) |
+| Phase 1 - Task 5 | Personal Loan Acceptance Prediction | Decision Trees, Classification | [Repository](https://github.com/Samaa-lab/Task-5-Personal-Loan-Acceptance-Prediction) |
+| Phase 2 - Task 1 | Term Deposit Subscription Prediction | Explainable AI, SHAP, LIME | [Repository](https://github.com/Samaa-lab/Task-1-Term-Deposit-Subscription-Prediction) |
+| Phase 2 - Task 2 | Customer Segmentation | K-Means, PCA | [Repository](https://github.com/Samaa-lab/Task-2-Customer-Segmentation-Using-Unsupervised-Learning) |
+| Phase 2 - Task 3 | Energy Consumption Forecasting | ARIMA, LSTM, Time Series | [Repository](https://github.com/Samaa-lab/Task-3-Energy-Consumption-Time-Series-Forecasting) |
+| Phase 2 - Task 4 | Loan Default Risk Optimization | CatBoost, Threshold Optimization | [Repository](https://github.com/Samaa-lab/Task-4-Loan-Default-Risk-with-Business-Cost-Optimization) |
+| Phase 2 - Task 5 | Interactive Business Dashboard | Streamlit, Business Intelligence | [Repository](https://github.com/Samaa-lab/Task-5-Interactive-Business-Dashboard) |
 ---
 
 # Phase 1 – Data Science & Analytics Fundamentals
