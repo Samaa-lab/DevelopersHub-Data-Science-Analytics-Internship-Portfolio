@@ -32,7 +32,7 @@ The table below provides an overview of all projects completed during my **Data 
 | **Phase 2** | **Task 2** | Customer Segmentation Using Unsupervised Learning | K-Means Clustering, PCA, Customer Segmentation | [🔗 Repository](https://github.com/Samaa-lab/Task-7-Customer-Segmentation-Using-Unsupervised-Learning) |
 | **Phase 2** | **Task 3** | Energy Consumption Time Series Forecasting | ARIMA, Prophet, XGBoost, Time Series Forecasting | [🔗 Repository](https://github.com/Samaa-lab/Task-8-Energy-Consumption-Time-Series-Forecasting) |
 | **Phase 2** | **Task 4** | Loan Default Risk with Business Cost Optimization | CatBoost, Cost Optimization, Risk Modeling, Threshold Tuning | [🔗 Repository](https://github.com/Samaa-lab/Task-9-Loan-Default-Risk-Optimization-with-Business-Cost-Optimization) |
-| **Phase 2** | **Task 5** | Interactive Business Dashboard | Streamlit, Business Intelligence, Dashboard Development | *Coming Soon* |
+| **Phase 2** | **Task 5** | Interactive Business Dashboard in Streamlit | Streamlit, Plotly, Business Intelligence, Interactive Dashboard | [🔗 Repository](https://github.com/Samaa-lab/Task-10-superstore-streamlit-dashboard) |
 
 ---
 
